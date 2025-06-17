@@ -59,3 +59,8 @@
 <p align="center">
   Have a great day! ⭐
 </p>
+
+### 🌱 Updates
+
+> 📌 Também estou publicando projetos no **GitLab** recentemente!  
+> [![GitLab](https://img.shields.io/badge/Acesse%20meu%20GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/JPedro-SG)
